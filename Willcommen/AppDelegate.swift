@@ -7,14 +7,17 @@
 //
 
 import UIKit
+import ConnectyCube
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        Settings.applicationID = 4992
+        Settings.authKey = "xUVQuFuHgrV8dHC"
+        Settings.authSecret = "yX6qmCvsRMwqRfK"
+        Settings.accountKey = "THGTBNY"
         return true
     }
 

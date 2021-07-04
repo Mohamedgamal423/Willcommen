@@ -1,20 +1,20 @@
 //
-//  ViewController.swift
+//  SettingsVC.swift
 //  Willcommen
 //
-//  Created by moh on 5/14/21.
+//  Created by moh on 5/16/21.
 //  Copyright © 2021 moh. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SettingsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
+    
 
 
 }
-

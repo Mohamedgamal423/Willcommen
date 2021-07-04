@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Willcommen/Pods-Willcommen-frameworks.sh
+${PODS_ROOT}/ConnectyCube/ConnectyCube.framework
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
